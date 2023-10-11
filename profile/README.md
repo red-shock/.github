@@ -4,5 +4,5 @@ Any projects that are open-source will be shared here. <br>
 Managed by [@Thomasssb1](https://github.com/Thomasssb1)
 
 <picture>
-  <img alt="Red Shock Entertainment Logo" src="https://raw.githubusercontent.com/red-shock/redshockentertainment-privacy/main/rdshckmockup.png" width="150"/>
+  <img alt="Red Shock Entertainment Logo" src="https://github.com/red-shock/redshockentertainment-privacy/blob/main/rdshckmockup.png?raw=true" width="150"/>
 </picture>
